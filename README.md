@@ -1,5 +1,5 @@
 # Vall MoE
-
+![](./fig/vallmoe.png)
 ## Create a virtual environment
 create a conda enviroment 
 ```
